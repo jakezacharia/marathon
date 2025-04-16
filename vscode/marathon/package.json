@@ -1,0 +1,23 @@
+{
+  "name": "Marathon",
+  "displayName": "Marathon",
+  "description": "A theme inspired by Bungie's latest shooter Marathon and the work of Joseph Cross",
+  "version": "1.0.0",
+  "publisher": "@jakezacharia",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marathon",
+        "uiTheme": "vs-dark",
+        "path": "themes/marathon.json"
+      }
+    ]
+  }
+}
