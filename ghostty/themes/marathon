@@ -18,23 +18,23 @@ cursor-color = #c0fe03
 palette = 0=#15171e
 palette = 8=#363a47
 # red
-palette = 1=#d64366
+palette = 1=#c32b21
 palette = 9=#ff5a84
 # green
-palette = 2=#87fd82
+palette = 2=#ccfc50
 palette = 10=#a5ffa1
 # yellow
-palette = 3=#c0fe03
+palette = 3=#fefe53
 palette = 11=#e2ff56
 # blue
-palette = 4=#2e04f0
+palette = 4=#1b48ed
 palette = 12=#6e4fff
 # magenta
-palette = 5=#e832c5
+palette = 5=#d64065
 palette = 13=#ff5ae2
 # cyan
-palette = 6=#11f2f9
+palette = 6=#6eedf4
 palette = 14=#6cfbff
 # white
 palette = 7=#e4fdfc
-palette = 15=#ffffff
+palette = 15=#fefffd

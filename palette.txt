@@ -1,0 +1,35 @@
+scanline red
+#c32b21
+
+citrus orange
+#f27332
+
+high vis yellow
+#fefe53
+
+acid green
+#ccfc50
+
+lime green
+#7ef568
+
+hologram cyan
+#6eedf4
+
+terminal blue
+#1b48ed
+
+alert blue/purple (UI elements)
+#2f04f1
+
+watermelon pink (errors, warnings)
+#d64065
+
+gunmetal black
+#15171e
+
+death white
+#e4fdfc
+
+font white
+#fefffd
