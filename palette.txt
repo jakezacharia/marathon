@@ -1,26 +1,26 @@
-scanline red
-#c32b21
+assert red ^^
+#e93324
 
-citrus orange
-#f27332
+citrus orange ^^
+#ea4425
 
-high vis yellow
-#fefe53
+high vis yellow ^^
+#f1fa52
 
-acid green
+acid green ^^
 #ccfc50
 
-lime green
-#7ef568
+lime green ^^
+#8ced48
 
-hologram cyan
-#6eedf4
+hologram cyan ^^
+#70f2f3
 
-terminal blue
-#1b48ed
+terminal blue ^^
+#0410e7
 
-alert blue/purple (UI elements)
-#2f04f1
+alert blue/purple (UI elements) ^^
+#2e04f0
 
 watermelon pink (errors, warnings)
 #d64065

@@ -1,40 +1,40 @@
 # MARATHON
-# @jakezacharia
+# twitter: @jakezacharia
 
 # window background
-background = #15171e
+background =#0a0a0a
 
 #normal text color
-foreground = #e4fdfc
+foreground =#e4fdfc
 
 # selected text
-selection-background = #c0fe03
-selection-foreground = #000000
+selection-background =#c0fe03
+selection-foreground =#000000
 
-cursor-color = #c0fe03
+cursor-color =#c0fe03
 
 # colors
 # black
 palette = 0=#15171e
 palette = 8=#363a47
 # red
-palette = 1=#c32b21
-palette = 9=#ff5a84
+palette = 1=#e93324
+palette = 9=#ea4425
 # green
 palette = 2=#ccfc50
-palette = 10=#a5ffa1
+palette = 10=#8ced48
 # yellow
 palette = 3=#fefe53
 palette = 11=#e2ff56
 # blue
-palette = 4=#1b48ed
-palette = 12=#6e4fff
+palette = 4=#0410e7
+palette = 12=#1b48ed
 # magenta
-palette = 5=#d64065
-palette = 13=#ff5ae2
+palette = 5=#e23964
+palette = 13=#f7567b
 # cyan
 palette = 6=#6eedf4
-palette = 14=#6cfbff
+palette = 14=#95f4ff
 # white
 palette = 7=#e4fdfc
 palette = 15=#fefffd
