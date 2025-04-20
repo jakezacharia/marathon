@@ -1,35 +1,32 @@
-assert red ^^
+assert red
 #e93324
 
-citrus orange ^^
+citrus orange
 #ea4425
 
-high vis yellow ^^
+high vis yellow
 #f1fa52
 
-acid green ^^
+acid green
 #ccfc50
 
-lime green ^^
+lime green
 #8ced48
 
-hologram cyan ^^
+hologram cyan
 #70f2f3
 
-terminal blue ^^
+terminal blue
 #0410e7
-
-alert blue/purple (UI elements) ^^
+alert blue/purple (UI elements)
 #2e04f0
 
-watermelon pink (errors, warnings)
+nucaloric pink (errors, warnings)
 #d64065
 
-gunmetal black
-#15171e
-
-death white
+text white
 #e4fdfc
 
-font white
-#fefffd
+editor colors, windows, backgrounds, etc
+#42577e
+#3B3F5180
